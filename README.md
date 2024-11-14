@@ -1,6 +1,6 @@
 # Hello, I'm Kristine Bjørgan Østby 👋
 
-I'm a Front-End Development student, currently living in Portugal and studying in my second year. I'm originally from Norway, and at age 32, I've found a true passion in coding and design.
+I'm a Front-End Development student, currently in Portugal and studying in my second year. I'm originally from Norway, and at age 32, I've found a true passion in coding and design.
 
 ## About Me 🌱
 My journey into front-end development began just a year ago, but it has been a whirlwind of discovery and creativity. I am deeply passionate about crafting aesthetic designs that offer sublime functionality. My goal is to create digital experiences that are not only visually appealing but also intuitive and empowering for users.
